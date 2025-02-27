@@ -7,6 +7,11 @@ nav{
     background-color: royalblue;
     padding: 10px 50px;
 }
+.hero{
+    background-color: orange;
+    width: 100%;
+    height: 550px;
+}
 button{
     padding: 10px;
 }
